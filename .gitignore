@@ -1,3 +1,4 @@
 *log
 !/PSModules/
 /PSModules/*
+.log
